@@ -1,0 +1,42 @@
+<!DOCTYPE HTML>
+
+<html>
+
+<head>
+<meta charset="utf-8" />
+<title>My Surgery</title>
+
+<link rel="stylesheet" type="text/css" href="My Surgery.css" />
+</head>
+<body>
+
+<h1>About My Surgery</h1>
+<br />
+
+<img src="C:/Users/Ethan/Documents/Ethan H - Final Website Project/media/My Surgery.jpg" width="459" height="816" alt="My surgery">
+<p>I had surgery on my knees on June 14th, 2017. I had full leg castes for 5 weeks, while I was in the hospital I played on my Nintendo Switch and laptop. I also watched Nintendo's E3 livestream since that was annouced to be right around my surgery time. At E3, they show a lot of trailers and gameplay of upcoming games.
+</p>
+<br />
+
+<div class="footer">
+	<footer>
+		<p>Author: Ethan Hogue</p>
+		<p>My email is <a href="mailto:hege@example.com">etmi03rblx@gmail.com</a></p>
+	</footer>
+</div>
+
+<div>
+	<ul>
+		<li><a href="Home.html">Home</a></li>
+	</ul>
+	<ul>
+		<li><a href="Steam Deck vs Switch.html">Steam Deck vs Nintendo Switch</a></li> &nbsp;|&nbsp;
+		<li><a href="Favorite Video Games.html">My Favorite Video Games</a></li> &nbsp;|&nbsp;
+		<li><a href="My Surgery.html">My Surgery</a></li>
+	</ul>
+</div>
+
+
+
+</body>
+</html>

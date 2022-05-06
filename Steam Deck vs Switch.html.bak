@@ -1,0 +1,48 @@
+<! DOCTYPE HTML>
+
+<html>
+
+<head>
+<meta charset="utf-8" />
+<title>Steam Deck vs Nintendo Switch</title>
+<link rel="stylesheet" type="text/css" href="Steam Deck.css" />
+</head>
+
+
+<body>
+<div class="Center">
+<h1>Steam Deck vs Nintendo Switch</h1>
+<br />
+
+<img src="https://preview.redd.it/j5jpwgf3abc81.jpg?width=640&crop=smart&auto=webp&s=607dbb4207c0a53b1d7405680c1b5896b03ce1ca" width="640" height="311" alt="Steam Deck">
+</div>
+<br />
+
+<p>The Steam Deck is made by Valve, it released on February 25th 2022. It is a handheld gaming PC and can play a lot and you can install emulators on it as well since it is just a computer. The Steam Deck emulates really well. The Nintendo Switch released on March 3rd, 2017. People create emulators to play these systems to preserve the games. The state of Nintendo Switch emulation on Steam Deck is pretty good. The Steam Deck is capable of emulating every other Nintendo console really well, it is flawless up to GameCube and Wii. Wii U is good aswell. Below is a video showing the power of the Steam Deck.</p>
+<br />
+
+<div class="Video">
+	<video width="640" height="360" controls="true">
+		<source src="C:/Users/Ethan/Documents/Ethan H - Final Website Project/media/Steam_Deck_LTT.mp4" type="video/mp4" />
+	</video>
+<br />
+
+<p class="bold">Video by Linus Tech Tips.</p>
+</div>
+<br />
+
+<div>
+	<ul>
+		<li class="navlist"><a href="Home.html">Home</a></li>
+	</ul>
+
+	<ul>
+		<li class="navlist"><a href="Favorite Video Games.html">Favorite Video games</a></li> &nbsp;|&nbsp;
+		<li class="navlist"><a href="My Surgery.html">My Surgery</a></li> &nbsp;|&nbsp;
+		<li class="navlist"><a href="Steam Deck vs Switch.html">Steam Deck vs Nintendo Switch</a></li>
+	</ul>
+</div>
+
+
+</body>
+</html>

@@ -1,0 +1,43 @@
+<!DOCTYPE HTML>
+
+<html>
+<head>
+<meta charset="utf-8" />
+<title>Home</title>
+
+<link rel="stylesheet" type="text/css" href="Home.css" />
+</head>
+
+<body>
+<h1>Home</<h1>
+</br />
+
+<h3>About Me</h3>
+<img src="/media/About me.png" width="322" height="368" alt="Ethan Hogue" />
+<br />
+
+<p>Hi, I am Ethan Hogue, I have cerebral palsy, my knees were really bent until I got a surgery in summer of 2018 to straighten my lags. I like computers and playing video games. My favorite video game genre is Platformer. I like both 2D and 3D Platformers. I am also excited for Valve's Steam Deck, amd I'm also into emulation. 
+</p>
+<br />
+
+<div>
+	<ul>
+		<li><a href="Home.html">Home</a></li>
+	</ul>
+
+	<ul>
+		<li><a href="My Surgery.html">My Surgery</a></li> &nbsp;|&nbsp;
+		<li><a href="Steam Deck vs Switch.html">Steam Deck vs Nintendo Switch</a></li> &nbsp;|&nbsp;
+		<li><a href="Favorite Video Games.html">My Favorite Video Games</a></li>
+	</ul>
+</div>
+
+<div class="footer">
+	<footer>
+		<p>Author: Ethan Hogue</p>
+		<p>My email is <a href="mailto:hege@example.com">etmi03rblx@gmail.com</a></p>
+	</footer>
+</div>
+
+</body>
+</html>
